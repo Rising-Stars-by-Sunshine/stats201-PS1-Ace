@@ -3,14 +3,10 @@
 - **Author**: Ace Asim, Ethics and Leadership (Public Policy), Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: I’m extremely grateful to Professor Luyao Zhang whom this project would not be possible without.
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+- **Acknowledgments**: I’m extremely grateful to Professor Luyao Zhang whom this project would not be possible without. Also, I'd like to give a special thank-you to Ava Baker and Shiran Yuan for your assistance with this project.
+
+##Project Summary
+This project involves a comprehensive analysis of various token data from Infura, alchemy, and QuickNode. Specifically, Ace analyzed ERC20 and ERC271 tokens, focusing on Chainlink and tokens from the Bored Ape Yacht Club, respectively. In addition, the project also involves an extensive literature review of AI Ethics, analyzing a pool of papers to establish word connections. The project utilized advanced data analytics tools to identify the most commonly used words in the title and abstract, as well as the most frequently paired words. 
   
  
 
