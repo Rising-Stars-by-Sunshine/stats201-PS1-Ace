@@ -1,4 +1,4 @@
-# Ace Asim
+# Problem Set 1 | Set Up the Workspace
 ## Project information
 - **Author**: Ace Asim, Ethics and Leadership (Public Policy), Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -37,7 +37,7 @@ This project involves a comprehensive analysis of various token data from Infura
 ### Code Source
 - [Sample Code for Problem Set 1 | Demo: Ethereum, Blockchain, API](https://github.com/sunshineluyao/EthereumETL-Instructions/blob/main/Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
 
-### Literature, References
+### Literature
 #### Chicago Author-Date
 - Chainlink Foundation. 2017a. “Blockchain Oracles for Hybrid Smart Contracts | Chainlink.” Chain.link. 2017. https://chain.link/.
 - ———. 2017b. “Chainlink Labs.” Chainlinklabs.com. 2017. https://chainlinklabs.com/.
