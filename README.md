@@ -20,50 +20,113 @@ This project involves a comprehensive analysis of various token data from Infura
 
 
 ## Data
-- Data Source
-- Queried Data
-- Processed Data
-- ...
+- [Papers Used for Literature Review]()
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [PS-1 Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/code/A_Asim_PS_1___Ethereum_Blockchain_API.ipynb)
+- [Literature Review Code]()
 
 ## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
 
 ## References
 
 ### Data Source
 - Data Source Title and URL
 ### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+- [Sample Code for Problem Set 1 | Demo: Ethereum, Blockchain, API](https://github.com/sunshineluyao/EthereumETL-Instructions/blob/main/Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+### Literature, References
+#### Chicago Author-Date
+- Chainlink Foundation. 2017a. “Blockchain Oracles for Hybrid Smart Contracts | Chainlink.” Chain.link. 2017. https://chain.link/.
+- ———. 2017b. “Chainlink Labs.” Chainlinklabs.com. 2017. https://chainlinklabs.com/.
+- Coinbase. 2023. “Bored Ape Yacht Club BAYC.” Coinbase.com. Coinbase. 2023. https://www.coinbase.com/price/bored-ape-yacht-club.
+- consensys. 2020. “What Is Ethereum 2.0?” ConsenSys. May 12, 2020. https://consensys.net/blog/blockchain-explained/what-is-ethereum-2/.
+- Crypto.com. 2018. “Chainlink Price | LINK Price, USD Converter, Charts | Crypto.com.” Https://Crypto.com/Price/Chainlink. 2018. https://crypto.com/price/chainlink.
+- ethereum.org. 2023. “Ethereum Upgrades (Formerly ‘Eth2’).” Ethereum.org. 2023. https://ethereum.org/en/upgrades/.
+- Hayward, Decrypt / Andrew. 2021. “What Is Bored Ape Yacht Club? The Celebrity NFT of Choice.” Decrypt. September 15, 2021. https://decrypt.co/resources/what-is-bored-ape-yacht-club-the-celebrity-nft-of-choice.
+- Joshi, M. 2021. “Exploring the Bored Ape Yacht Club: An Analysis of a Crypto-Collectible.” SSRN Electronic Journal. 2021. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3856010.
+- Tsankov, P., Danışman, E., Khun, T., Bindschaedler, C., Coppens, B., Holz, R., & Gervais, A. 2018. “Decentralized Oracle Networks: A Survey and Taxonomy.” arXiv preprint arXiv:1808.09292. 2018.
 
+#### BibTex
 ```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+@misc{_2018_chainlink,
+  author = {, Crypto.com},
+  title = {Chainlink Price | LINK Price, USD converter, Charts | Crypto.com},
+  url = {https://crypto.com/price/chainlink},
+  urldate = {2023-01-29},
+  year = {2018},
+  organization = {https://crypto.com/price/chainlink}
 }
+
+@misc{_2017_blockchain,
+  author = {, Chainlink Foundation},
+  title = {Blockchain Oracles for Hybrid Smart Contracts | Chainlink},
+  url = {https://chain.link/},
+  year = {2017},
+  organization = {chain.link}
+}
+
+@misc{_2017_chainlink,
+  author = {, Chainlink Foundation},
+  title = {Chainlink Labs},
+  url = {https://chainlinklabs.com/},
+  year = {2017},
+  organization = {chainlinklabs.com}
+}
+
+@misc{_2023_ethereum,
+  author = {, ethereum.org},
+  title = {Ethereum upgrades (formerly 'Eth2')},
+  url = {https://ethereum.org/en/upgrades/},
+  year = {2023},
+  organization = {ethereum.org}
+}
+
+@misc{_2020_what,
+  author = {, consensys},
+  month = {05},
+  title = {What is Ethereum 2.0?},
+  url = {https://consensys.net/blog/blockchain-explained/what-is-ethereum-2/},
+  year = {2020},
+  organization = {ConsenSys}
+}
+
+@misc{hayward_2021_what,
+  author = {Hayward, Decrypt / Andrew},
+  month = {09},
+  title = {What is Bored Ape Yacht Club? The Celebrity NFT of Choice},
+  url = {https://decrypt.co/resources/what-is-bored-ape-yacht-club-the-celebrity-nft-of-choice},
+  year = {2021},
+  organization = {Decrypt}
+}
+
+@misc{_2023_bored,
+  author = {, Coinbase},
+  publisher = {Coinbase},
+  title = {Bored Ape Yacht Club BAYC},
+  url = {https://www.coinbase.com/price/bored-ape-yacht-club},
+  year = {2023},
+  organization = {coinbase.com}
+}
+
+@misc{_2018_decentralized,
+  author = {, Tsankov, P., Danƒ±≈üman, E., Khun, T., Bindschaedler, C., Coppens, B., Holz, R., & Gervais, A. },
+  publisher = {arXiv preprint arXiv:1808.09292.},
+  title = {Decentralized oracle networks: A survey and taxonomy.},
+  year = {2018}
+}
+
+@misc{joshi_2021_exploring,
+  author = {Joshi, M.},
+  publisher = {SSRN Electronic Journal},
+  title = {Exploring the Bored Ape Yacht Club: An Analysis of a Crypto-Collectible},
+  url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3856010},
+  year = {2021}
+}
+![image](https://user-images.githubusercontent.com/122700704/232028040-7fd90cfc-1558-4b40-ae3e-65c03797d018.png)
+
 ```
 
 
