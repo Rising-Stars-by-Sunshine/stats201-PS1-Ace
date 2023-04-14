@@ -5,20 +5,22 @@
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I’m extremely grateful to Professor Luyao Zhang whom this project would not be possible without. Also, I'd like to give a special thank-you to Ava Baker and Shiran Yuan for your assistance with this project.
 
-##Project Summary
+## Project Summary
 This project involves a comprehensive analysis of various token data from Infura, alchemy, and QuickNode. Specifically, Ace analyzed ERC20 and ERC271 tokens, focusing on Chainlink and tokens from the Bored Ape Yacht Club, respectively. In addition, the project also involves an extensive literature review of AI Ethics, analyzing a pool of papers to establish word connections. The project utilized advanced data analytics tools to identify the most commonly used words in the title and abstract, as well as the most frequently paired words. 
   
  
 
 ## Table of Contents
-- data
-- code
-- spotlight
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#data) 
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#spotlight)
+- [References](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#references)
+- [About the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#abouttheauthor)
 
 
 
 ## Data
-- Data Source:
+- Data Source
 - Queried Data
 - Processed Data
 - ...
