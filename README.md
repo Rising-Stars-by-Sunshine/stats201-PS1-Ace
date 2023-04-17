@@ -13,6 +13,7 @@ This project involves a comprehensive analysis of various token data from Infura
 ## Table of Contents
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#data) 
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#spotlight)
 - [References](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#references)
 
 
@@ -24,6 +25,19 @@ This project involves a comprehensive analysis of various token data from Infura
 ## Code
 - [PS-1 Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/code/A_Asim_PS_1___Ethereum_Blockchain_API.ipynb)
 - [Literature Review Code]()
+
+## Spotlight
+**Figure 1: Word Cloud**
+
+![image](https://user-images.githubusercontent.com/122700704/232383443-0e89ac42-9651-49ae-a6ea-9d879a463ef5.png)
+
+*Source: [Relevant Literature: AI Ethics]() Created by [WordCloud](https://pypi.org/project/wordcloud/)*
+
+**Figure 2: Bigram**
+
+![Bigram](https://user-images.githubusercontent.com/122700704/232383321-1e89b18d-18f5-43fd-ae3f-fb105b51c0f7.png)
+
+*Source: [Relevant Literature: AI Ethics]() Created by [WordCloud](https://pypi.org/project/wordcloud/)*
 
 
 ## References
