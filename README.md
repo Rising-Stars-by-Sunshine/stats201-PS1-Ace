@@ -13,9 +13,7 @@ This project involves a comprehensive analysis of various token data from Infura
 ## Table of Contents
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#data) 
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#spotlight)
 - [References](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#references)
-- [About the Author](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#abouttheauthor)
 
 
 
@@ -27,13 +25,15 @@ This project involves a comprehensive analysis of various token data from Infura
 - [PS-1 Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/code/A_Asim_PS_1___Ethereum_Blockchain_API.ipynb)
 - [Literature Review Code]()
 
-## Spotlight
-
 
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- [Infura](https://www.infura.io/)
+- [Alchemy](https://www.alchemy.com/)
+- [Etherscan](https://etherscan.io/)
+- Citations for Literature can be found in the [Literature Section](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#literature)
+
 ### Code Source
 - [Sample Code for Problem Set 1 | Demo: Ethereum, Blockchain, API](https://github.com/sunshineluyao/EthereumETL-Instructions/blob/main/Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
 
