@@ -16,10 +16,8 @@ This project involves a comprehensive analysis of various token data from Infura
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#spotlight)
 - [References](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace#references)
 
-
-
 ## Data
-- [Papers Used for Literature Review]()
+- [Papers Used for Literature Review](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/data/PS1-Network%20Analysis%20Referencescsv.csv)
 
 
 ## Code
