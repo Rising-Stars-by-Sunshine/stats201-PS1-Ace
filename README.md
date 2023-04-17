@@ -1,5 +1,5 @@
 # Comprehensive Analysis of Token Data and Literature Review on AI Ethics: Insights from ERC20 and ERC271 Tokens, Chainlink and Bored Ape Yacht Club
-## Project information
+## Project Information
 - **Author**: Ace Asim, Ethics and Leadership (Public Policy), Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
