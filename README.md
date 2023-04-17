@@ -31,13 +31,13 @@ This project involves a comprehensive analysis of various token data from Infura
 
 ![image](https://user-images.githubusercontent.com/122700704/232383443-0e89ac42-9651-49ae-a6ea-9d879a463ef5.png)
 
-*Source: [Relevant Literature: AI Ethics]() Created by [WordCloud](https://pypi.org/project/wordcloud/)*
+*Source: [Relevant Literature: AI Ethics](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/data/PS1-Network%20Analysis%20Referencescsv.csv) Created by [WordCloud](https://pypi.org/project/wordcloud/)*
 
 **Figure 2: Bigram**
 
 ![Bigram](https://user-images.githubusercontent.com/122700704/232383321-1e89b18d-18f5-43fd-ae3f-fb105b51c0f7.png)
 
-*Source: [Relevant Literature: AI Ethics]() Created by [WordCloud](https://pypi.org/project/wordcloud/)*
+*Source: [Relevant Literature: AI Ethics](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/data/PS1-Network%20Analysis%20Referencescsv.csv) Created by [WordCloud](https://pypi.org/project/wordcloud/)*
 
 
 ## References
