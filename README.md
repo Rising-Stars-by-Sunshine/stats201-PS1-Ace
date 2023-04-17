@@ -29,11 +29,19 @@ This project involves a comprehensive analysis of various token data from Infura
 
 ![image](https://user-images.githubusercontent.com/122700704/232383443-0e89ac42-9651-49ae-a6ea-9d879a463ef5.png)
 
+Figure 1, the word cloud, is a visual representation of a collection of words where the size of each word is determined by its frequency or importance within the text. The more frequently a word appears in the text, the larger it appears in the word cloud. Word clouds are often used to provide a quick overview or summary of a large text dataset and help to identify key themes or topics.
+
+In this case, the word cloud suggests that there is a growing concern about the ethical implications of AI in the legal system. Other words that are also prominent in the word cloud include "AI"," "Legal," "Artificial," "Intelligence," "Ethical," and "Issue," which further reinforce the idea that there are complex and multifaceted issues related to the intersection of AI and the legal system. Overall, the word cloud suggests that there is a need for thoughtful consideration and discussion of the ethical, legal, and social implications of AI in the legal field.
+
 *Source: [Relevant Literature: AI Ethics](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/data/PS1-Network%20Analysis%20Referencescsv.csv) Created by [WordCloud](https://pypi.org/project/wordcloud/)*
 
 **Figure 2: Bigram**
 
 ![Bigram](https://user-images.githubusercontent.com/122700704/232383321-1e89b18d-18f5-43fd-ae3f-fb105b51c0f7.png)
+
+Figure 2, a bigram, is a sequence of two words that occur together in a text. PMI (Pointwise Mutual Information) is a measure of how often two words occur together compared to how often we would expect them to occur by chance. When the PMI value is high, it indicates that the two words are strongly associated with each other.
+
+In this case, the highest PMI is between "Artificial" and "Intelligence," and "AI" and "Issues," also implying the growing concern about the ethical implications of AI in the legal system.
 
 *Source: [Relevant Literature: AI Ethics](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ace/blob/main/data/PS1-Network%20Analysis%20Referencescsv.csv) Created by [WordCloud](https://pypi.org/project/wordcloud/)*
 
