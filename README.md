@@ -48,6 +48,7 @@ This project involves a comprehensive analysis of various token data from Infura
 
 ### Code Source
 - [Sample Code for Problem Set 1 | Demo: Ethereum, Blockchain, API](https://github.com/sunshineluyao/EthereumETL-Instructions/blob/main/Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
+- [Sample Code for Network Analysis/Literature Review)(https://github.com/sunshineluyao/design-principle-blockchain)
 
 ### Literature
 #### Chicago Author-Date
